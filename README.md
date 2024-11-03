@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok-112&label=Profile%20views&color=0e75b6&style=flat" alt="alok-112" /> </p>
 
 - 🔭 I’m currently working on **Full-Stack Web Development**  
-- 🌱 I’m currently learning **JavaScript** and **React**  
+- 🌱 I’m currently learning **MERN STACK** and **NextJs**  
 - 💬 Ask me about **HTML, CSS, JavaScript, and Web Development**  
 - 📫 Reach me at **a.thakurm007@gmail.com**  
 - ⚡ Fun fact: **When I'm not coding, you can find me playing BGMI or diving into PC Games**
