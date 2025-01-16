@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Full-Stack Web Development**  
 - 🌱 I’m currently learning **MERN STACK** and **NextJs**  
-- 💬 Ask me about **HTML, CSS, JavaScript, and Web Development**  
+- 🤝 I’m looking to collaborate on Web Applications
 - 📫 Reach me at **a.thakurm007@gmail.com**  
-- ⚡ Fun fact: **When I'm not coding, you can find me playing BGMI or diving into PC Games**
+
 ---
 
 ### 🛠️ Languages and Tools:
