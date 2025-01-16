@@ -1,4 +1,3 @@
-Here’s a refined version of your GitHub profile README that emphasizes professionalism and makes a strong impression for recruiters:
 
 ---
 
